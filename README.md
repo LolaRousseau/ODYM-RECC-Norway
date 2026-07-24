@@ -1,7 +1,7 @@
 # ODYM-RECC-Norway
 A streamlined version of the original ODYM-RECC, for Norway.
 
-This code was used for the following publication: "Retrofitting Norwegian residential buildings: an archetype-based dynamic stock model" by Rousseau, L. S. A., Amini, S., Akin, S., & Hertwich, E. G. (Link will be added upon publication).
+This code was used for the following publication: "Retrofitting Norwegian residential buildings: an archetype-based dynamic stock model" by Rousseau, L. S. A., Amini, S., Akin, S., & Hertwich, E. G. ([https://doi.org/10.5334/bc.785](https://doi.org/10.5334/bc.785)).
 
 ## Description
 ODYM-RECC-Norway is a modified version of the Open Dynamic Material Systems Model for Resource Efficiency and Climate Change Mitigation (ODYM-RECC) originally developed by Pauliuk, Fishman, et al. (2021). ODYM-RECC was streamlined in Akin et al. (2025) to exclude vehicle-related model, and the energy demands associated with demolition and waste treatment. ODYM-RECC-Norway was derived from that streamlined version to model building retrofit in Norway including adoption of heat pumps and lifetime extension.
